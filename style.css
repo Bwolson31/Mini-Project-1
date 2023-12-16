@@ -1,0 +1,34 @@
+* {text-align: center;
+    font-family: Helvetica;
+
+}
+
+
+header, footer {background-color: darkcyan;
+    padding: 15px;
+}
+
+header {border-bottom: solid wheat;
+border-width: 10px;
+position: sticky;
+top: 0;
+width: 98%;}
+
+
+nav {text-align: right;
+    color: white;
+}
+
+a {color: white;
+text-decoration: none;
+padding: 10px;}
+
+div {margin: auto;
+background-color: tan;}
+
+.Form {border: solid red;
+Width:30%;
+padding:15px;
+border-radius: 15px;
+}
+
